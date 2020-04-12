@@ -1,6 +1,6 @@
 # Store Locator App
 
->__Live Demo:__ [anirban-js-miniprojects.imfast.io/gmaps-store-locator] (https://anirban-js-miniprojects.imfast.io/gmaps-store-locator/)
+>__Live Demo:__ https://anirban-js-miniprojects.imfast.io/gmaps-store-locator/
 
 __Developed Using:__
 
