@@ -1,6 +1,6 @@
 # Store Locator App
 
->__Live Demo:__ https://anirban-js-miniprojects.imfast.io/gmaps-store-locator/
+>__Live Demo:__ https://anirbanc-store-locator.netlify.app/
 
 __Developed Using:__
 
